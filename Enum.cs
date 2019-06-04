@@ -61,3 +61,10 @@ namespace PrimeiiroProjeto
         }
     }
 }
+
+/*
+1080, 03/06/2019 23:27:19, PendingPayment
+Enum converted to string: Processing
+Delivered
+Pressione qualquer tecla para continuar. . .
+*/
