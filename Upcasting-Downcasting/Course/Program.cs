@@ -23,8 +23,11 @@ namespace Course
 
             // BusinessAccount acc5 = (BusinessAccount)acc3;
             if (acc3 is BusinessAccount) {
+                
+                //Two sintaxe options to do a casting:
                 //BusinessAccount acc5 = (BusinessAccount)acc3;
                 BusinessAccount acc5 = acc3 as BusinessAccount;
+                
                 acc5.Loan(200.0);
                 Console.WriteLine("Loan!");
             }
